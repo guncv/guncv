@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **chanagun.vir@gmail.com**
 
-- ⚡ Fun fact **I am Funny**
+- ⚡ Fun fact **I am Funny and Hardworking**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
