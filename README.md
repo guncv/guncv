@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently bachelor degree on **Chulalongkorn University**
 
-- 📫 How to reach me **chanagun.vir@gmail.com**
+- 📫 How to reach me **chanagun.vir.work@gmail.com**
 
 - ⚡ Fun fact **I am Funny and Hardworking**
 
