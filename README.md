@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Chanagun Viriyasathapornpong</h1>
-<h3 align="center">A \developer from Thailand</h3>
+<h3 align="center">A software developer from Thailand</h3>
 <img align="right" alt"Coding" width="400" sec="https://iconscout.com/lottie-animation/coding-error-8928574">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=guncv&label=Profile%20views&color=0e75b6&style=flat" alt="guncv" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
