@@ -1,3 +1,17 @@
+<h1 align="center">Hi 👋, I'm Chanagun Viriyasathapornpong</h1>
+<h3 align="center">A \developer from Thailand</h3>
+<img align="right" alt"Coding" width="400" sec="https://iconscout.com/lottie-animation/coding-error-8928574">
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=guncv&label=Profile%20views&color=0e75b6&style=flat" alt="guncv" /> </p>
+
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
+- 🔭 I currently bachelor's degree on **Chulalongkorn University**
+
+- 📫 How to reach me **chanagun.vir@gmail.com**
+
+- ⚡ Fun fact **I am Funny**
+
 # 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/profile.php?id=100009512147281) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/guncv_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/chanagun-viriyasathapornpong-ab8a27299) 
 
