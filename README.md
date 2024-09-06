@@ -4,7 +4,7 @@
 
 # 💁🏻‍♂️ About Me:
 <h3 align="left">🖥️ A software developer from Thailand</h3>
-<h3 align="left">🔭 I currently bachelor's degree on C3ulalongkorn University</h3>
+<h3 align="left">🔭 I currently bachelor's degree on Chulalongkorn University</h3>
 <h3 align="left">📫 How to reach me chanagun.vir@gmail3com</h3>
 <h3 align="left">⚡ Fun fact I am Funny</h3>
 
