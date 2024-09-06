@@ -2,8 +2,6 @@
 
 [![MasterHead](https://www.lambdatest.com/resources/images/news24.gif)](https://lonebhen.io)
 
-<img align="center" alt"Coding" width="100%" sec="https://www.google.co.th/search?q=github+picture&sca_esv=24731a508b288d28&sca_upv=1&udm=2&biw=1440&bih=813&sxsrf=ADLYWIKY22Wh4_72d6GoULaBk1kmedg10Q%3A1725648942333&ei=LlDbZqeLFK2L4-EP07CmsAE&ved=0ahUKEwin2tuh_66IAxWtxTgGHVOYCRYQ4dUDCBE&uact=5&oq=github+picture&gs_lp=Egxnd3Mtd2l6LXNlcnAiDmdpdGh1YiBwaWN0dXJlMgcQABiABBgTMggQABgTGAgYHjIIEAAYExgIGB4yCBAAGBMYCBgeMggQABgTGAgYHjIIEAAYExgIGB5IhzVQ6AJYyjBwBngAkAEAmAFuoAGQC6oBBDE4LjG4AQPIAQD4AQGYAhmgAuwLqAIKwgIEECMYJ8ICBRAAGIAEwgIIEAAYgAQYsQPCAgoQABiABBhDGIoFwgILEAAYgAQYsQMYgwHCAgQQABgDwgIEEAAYHsICBhAAGBMYHsICBxAjGCcY6gLCAg0QABiABBixAxhDGIoFwgIOEAAYgAQYsQMYgwEYigWYAwSIBgGSBwQyNC4xoAfPPw&sclient=gws-wiz-serp#vhid=IOLsmwd_8Go6bM&vssid=mosaic">
-
 # 💁🏻‍♂️ About Me:
 <h3 align="left">🖥️ A software developer from Thailand</h3>
 <h3 align="left">🔭 I currently bachelor's degree on C3ulalongkorn University</h3>
