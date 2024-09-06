@@ -1,14 +1,11 @@
 <h1 align="center">Hi 👋, I'm Chanagun Viriyasathapornpong</h1>
-<h3 align="center">A software developer from Thailand</h3>
 <img align="right" alt"Coding" width="400" sec="https://iconscout.com/lottie-animation/coding-error-8928574">
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- 🔭 I currently bachelor's degree on **Chulalongkorn University**
-
-- 📫 How to reach me **chanagun.vir@gmail.com**
-
-- ⚡ Fun fact **I am Funny**
+# 💁🏻‍♂️ About Me:
+<h2 align="left">A software developer from Thailand</h2>
+<h2 align="left">🔭 I currently bachelor's degree on **Chulalongkorn University**</h2>
+<h2 align="left">📫 How to reach me **chanagun.vir@gmail.com**</h2>
+<h2 align="left">⚡ Fun fact **I am Funny**</h2>
 
 # 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/profile.php?id=100009512147281) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/guncv_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/chanagun-viriyasathapornpong-ab8a27299) 
